@@ -11,7 +11,7 @@
 
 ## Tareas Realizadas en las diferentes plantas:
 - Instalación y Configuración de Office 365
-- Installation de software's
+- Instalación de software's
     - Matrix
     - Lonati
     - Orgatex
@@ -31,7 +31,7 @@
 - Mantenimiento de hardware
     - Limpieza
     - Cambio de partes
-- Creación de PC's en el Active Directory
+- Creación de PC's (Active Directory)
 - Formateo de PC's | Laptops (System Center Configuration Manager)
 - Backup de información 
 - Encriptar laptops
@@ -42,7 +42,7 @@
 - Instalación y Configuración de terminales Axel
 - Revisión de relojes (Marcan los empleados)
 - Habilitación de puntos de red
-- Revisión de máquinas de compactado
+- Revisión de máquinas de compactado (Red)
 - Cambios de contraseñas
     - Windows
     - JDE
@@ -53,6 +53,10 @@
 - Instalación de Access run time 2003, 2010
 - Instalación laboratorio de Excel
 - Extracción de cableado utp de los TC's
+- Configuración Cisco Jabber
+- Instalación del Nicelabel 6 
+- Instalación de Microsoft Projector
+- Instalación Epson Projector
 ---
 
 Estas son las tareas que eh realizado a lo largo de mi Practica Profresional Universitaria.
