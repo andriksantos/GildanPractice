@@ -1,5 +1,5 @@
 # Support IT | Helpdesk HON LVL 2
-### Practica Profesional Universitaria
+### Práctica Profesional Universitaria
 
 ## Plantas asignadas
   - [RIO1 (HONTEX)](#tareas-realizadas-en-las-diferentes-plantas)
@@ -23,6 +23,9 @@
     - Java
     - Graphs 6
     - Setex
+    - Instalación del Nicelabel 6 
+    - Instalación de Microsoft Projector
+    - Instalación Epson Projector
 - Revision TC's y/o IT Room's
 - Instalación, Revisión y Configuración de impresoras 
     - Personales
@@ -40,7 +43,9 @@
 - Instalación, Revisión de teléfono IP
 - Elaboración de cableado de red
 - Instalación y Configuración de terminales Axel
-- Revisión de relojes (Marcan los empleados)
+    - JDE
+    - DCLink
+- Revisión de relojes (Kala)
 - Habilitación de puntos de red
 - Revisión de máquinas de compactado (Red)
 - Cambios de contraseñas
@@ -54,13 +59,10 @@
 - Instalación laboratorio de Excel
 - Extracción de cableado utp de los TC's
 - Configuración Cisco Jabber
-- Instalación del Nicelabel 6 
-- Instalación de Microsoft Projector
-- Instalación Epson Projector
 ---
 
-Estas son las tareas que eh realizado a lo largo de mi Practica Profresional Universitaria.
-La cual consta de 800 Horas de trabajo. 
+Estas son las tareas que eh realizado a lo largo de mi Práctica Profesional Universitaria.
+La cual consta de 800 Horas de trabajo, iniciando el 6/03/2019. 
 
 Río Nance, Choloma Cortés, Honduras, CA.
 
