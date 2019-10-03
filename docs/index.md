@@ -65,6 +65,7 @@
   - Terminales (Axel)
   - Computadoras
   - BrightSign
+  - Impresoras
 
 ---
 
