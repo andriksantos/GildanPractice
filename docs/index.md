@@ -9,32 +9,32 @@
   
 --- 
 
-## Tareas Realizadas en las diferentes plantas:
+## Tareas Realizadas en las diferentes plantas
 - Instalación y Configuración de Office 365
 - Instalación de software's
-  - Matrix
-  - Lonati
-  - Orgatex
-  - Cafeteria
-  - JDE
-  - Microsoft access
-  - Windows mobile (Scanners)
-  - Plant explorer
-  - Java
-  - Graphs 6
-  - Setex
-  - Instalación del Nicelabel 6 
-  - Instalación de Microsoft Projector
-  - Instalación Epson Projector
-  - LabelShop
+    - Matrix
+    - Lonati
+    - Orgatex
+    - Cafeteria
+    - JDE
+    - Microsoft access
+    - Windows mobile (Scanners)
+    - Plant explorer
+    - Java
+    - Graphs 6
+    - Setex
+    - Instalación del Nicelabel 6 
+    - Instalación de Microsoft Projector
+    - Instalación Epson Projector
+    - LabelShop
 - Revision TC's y/o IT Room's
 - Instalación, Revisión y Configuración de impresoras 
-  - Personales
-  - En red
-  - Cafetería
+    - Personales
+    - En red
+    - Cafetería
 - Mantenimiento de hardware
-  - Limpieza
-  - Cambio de partes
+    - Limpieza
+    - Cambio de partes
 - Creación de PC's (Active Directory)
 - Formateo de PC's | Laptops (System Center Configuration Manager)
 - Backup de información 
@@ -45,32 +45,33 @@
 - Instalación, Revisión de teléfono IP
 - Elaboración de cableado de red
 - Instalación y Configuración de terminales Axel
-  - JDE
-  - DCLink
+    - JDE
+    - DCLink
 - Revisión de relojes (Kala)
 - Habilitación de puntos de red
 - Revisión de máquinas de compactado (Red)
 - Cambios de contraseñas
-  - Windows
-  - JDE
+    - Windows
+    - JDE
 - Desbloqueó de usuarios
-  - Windows
-  - JDE
+    - Windows
+    - JDE
 - Configuración de ODBC
 - Instalación de Access run time 2003, 2010
 - Instalación laboratorio de Excel
+- Instalación de BrightSign
 - Extracción de cableado utp de los TC's
 - Configuración Cisco Jabber
 - Inventarios
-  - Terminales (Axel)
-  - Computadoras
-  - BrightSign
-  - Impresoras
-
+    - Terminales (Axel)
+    - Computadoras
+    - BrightSign
+    - Impresoras
+- Entre otras actividades
 ---
 
 Estas son las tareas que eh realizado a lo largo de mi Práctica Profesional Universitaria.
-La cual consta de 800 Horas de trabajo, iniciando el 6/03/2019. 
+La cual consta de 800 Horas de trabajo, iniciando el 6/03/2019 y culminando el 10/11/2019. 
 
 Río Nance, Choloma Cortés, Honduras, CA.
 
