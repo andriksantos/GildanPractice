@@ -1,6 +1,6 @@
 # Project information
 site_name: 'GildanPractice'
-site_description: 'Tareas realizadas durante la Practica Profesional Universitaria'
+site_description: 'Practica Profesional Universitaria'
 site_author: 'Andrik Santos'
 site_url: 'https://andriksantos.github.io/GildanPractice/'
 
@@ -13,7 +13,7 @@ copyright: 'Copyright &copy; 2019 - Andrik Santos'
 
 # Configuration
 pages:
-  - Tareas realizadas durante la Practica Profesional Universitaria: index.md
+  - Práctica Profesional Universitaria: index.md
 theme:
   name: 'material'
   language: 'es'
@@ -31,13 +31,13 @@ extra:
 extra:
   social:
     - type: globe
-      link: https://andriksantos.github.io/
+      link: https://andriksantos.github.io
     - type: github-alt
       link: https://github.com/andriksantos
     - type: twitter
       link: https://twitter.com/andrik_rsm
     - type: linkedin
-      link: https://www.linkedin.com/in/andrik-santos-19128b146/
+      link: https://www.linkedin.com/in/andriksantos
     - type: facebook
       link: https://www.facebook.com/andrik.rsm
     - type: instagram
