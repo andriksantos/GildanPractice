@@ -10,63 +10,28 @@
 --- 
 
 ## Tareas Realizadas en las diferentes plantas
-- Instalación y Configuración de Office 365
-- Instalación de software's
-    - Matrix
-    - Lonati
-    - Orgatex
-    - Cafeteria
-    - JDE
-    - Microsoft access
-    - Windows mobile (Scanners)
-    - Plant explorer
-    - Java
-    - Graphs 6
-    - Setex
-    - Instalación del Nicelabel 6 
-    - Instalación de Microsoft Projector
-    - Instalación Epson Projector
-    - LabelShop
-- Revision TC's y/o IT Room's
-- Instalación, Revisión y Configuración de impresoras 
-    - Personales
-    - En red
-    - Cafetería
-- Mantenimiento de hardware
-    - Limpieza
-    - Cambio de partes
-- Creación de PC's (Active Directory)
-- Formateo de PC's | Laptops (System Center Configuration Manager)
-- Backup de información 
-- Encriptar laptops
-- Desencriptar discos duros
-- Entrega de equipo de computo
-- Instalación de Kiosco Gol
-- Instalación, Revisión de teléfono IP
-- Elaboración de cableado de red
-- Instalación y Configuración de terminales Axel
-    - JDE
-    - DCLink
-- Revisión de relojes (Kala)
-- Habilitación de puntos de red
-- Revisión de máquinas de compactado (Red)
-- Cambios de contraseñas
-    - Windows
-    - JDE
-- Desbloqueó de usuarios
-    - Windows
-    - JDE
-- Configuración de ODBC
-- Instalación de Access run time 2003, 2010
-- Instalación laboratorio de Excel
-- Instalación de BrightSign
-- Extracción de cableado utp de los TC's
-- Configuración Cisco Jabber
-- Inventarios
-    - Terminales (Axel)
+- Proyecto Implementación Office 365
+- Proyecto Implementación BrightSign
+- Proyecto Implementación Kiosco Gol
+- Proyecto laboratorio de Excel
+- Instalación de software
+- Instalación, Configuración y Revisión:
     - Computadoras
-    - BrightSign
     - Impresoras
+    - Termianles Axel
+    - Telefonos IP 
+- Mantenimiento de hardware PC, Laptop
+- Monitoreo y Elaboración de cableado de red
+- Revision TC's y/o IT Room's
+- Revisión de relojes (Kala)
+- Extracción de cableado utp de los TC's
+- Administración Active Directory
+- Administración equipo de computo
+- Inventarios
+    - Computadoras
+    - Impresoras
+    - BrightSign
+    - Terminales (Axel)
 - Entre otras actividades
 ---
 
