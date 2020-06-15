@@ -9,7 +9,7 @@ repo_name: 'AndrikSantos/GildanPractice'
 repo_url: 'https://github.com/andriksantos/GildanPractice'
 
 # Copyright
-copyright: 'Copyright &copy; 2019 - Andrik Santos'
+copyright: 'Copyright &copy; 2020 - Andrik Santos'
 
 # Configuration
 pages:
@@ -45,7 +45,7 @@ extra:
 
 # Google Analytics
 google_analytics:
-  - 'UA-103804510-1'
+  - 'UA-169388687-1'
   - 'auto'
 
 # Extensions
